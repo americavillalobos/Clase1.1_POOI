@@ -9,4 +9,5 @@ class Persona{
          // yesssss
         // ya se pudo subir un repositorio
        //  git hub
+       // declara variables
 }
